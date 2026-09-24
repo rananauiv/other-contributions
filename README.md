@@ -7,3 +7,7 @@ miscallaneous software related contributions
 2.know how to use visual scripting on scratch and make a top down zombie horde shooter, shoot em up, and flappy bird
 
 3. trying to automate ttw installation for fo3 and foNV
+
+
+4.(more of alternate path ) going thru Daggerfall unity's code, vestria's open source code, Moore's rpg template,learning to get used to multiple engines such as 
+s&box,unity,ue5,godot,studio etc
